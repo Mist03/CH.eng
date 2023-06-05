@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CHENG" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/bluebutton</item>
+        <item name="colorPrimaryVariant">@color/blackblue</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/bluebutton</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">?attr/colorPrimaryVariant</item>
+        <item name="android:textColorHint">#C8C8C8</item>
+
+
+    </style>
+    <style name="Card" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:background">@color/bluebutton</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="CardTeams" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:background">@color/bluebutton</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="BarColor" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+        <item name="android:windowBackground">@color/purple_700</item>
+        <item name="colorPrimary">@color/purple_8C706D</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+
+
+    <style name="NavColor" parent="ThemeOverlay.AppCompat">
+        <item name="android:background">#131337</item>
+    </style>
+
+    <style name="Button.Black" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/black</item>
+    </style>
+</resources>

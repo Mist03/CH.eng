@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "110330890400",
+    "firebase_url": "https://diplom-cf870-default-rtdb.firebaseio.com",
+    "project_id": "diplom-cf870",
+    "storage_bucket": "diplom-cf870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110330890400:android:ddd6d9b07a43e8c251e1c5",
+        "android_client_info": {
+          "package_name": "com.example.cheng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110330890400-rnusrcr245ebgd2jkiil7asff6atqp0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-t-Tgq7L-anWJtZs3J4zF3cFYcm7CMD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110330890400-rnusrcr245ebgd2jkiil7asff6atqp0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110330890400:android:307cc6101a0f2cee51e1c5",
+        "android_client_info": {
+          "package_name": "com.example.izaebalsyarabotai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110330890400-rnusrcr245ebgd2jkiil7asff6atqp0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-t-Tgq7L-anWJtZs3J4zF3cFYcm7CMD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110330890400-rnusrcr245ebgd2jkiil7asff6atqp0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

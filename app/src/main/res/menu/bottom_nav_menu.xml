@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/readingFragment"
+        android:icon="@drawable/ic_book"
+        android:title="Reading" />
+    <item
+        android:id="@+id/testingFragment"
+        android:icon="@drawable/ic_test"
+        android:title="Testing" />
+    <item
+        android:id="@+id/writingFragment"
+        android:icon="@drawable/ic_write"
+        android:title="Writting" />
+    <item
+        android:id="@+id/usersWordsFragment"
+        android:icon="@drawable/ic_baseline_auto_stories_24"
+        android:title="Users words" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_person"
+        android:title="Profile" />
+</menu>
