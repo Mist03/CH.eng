@@ -8,11 +8,9 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.FragmentActivity
 import com.example.cheng.Data.ActivityResult
 import com.example.cheng.R
 import com.example.cheng.Uses.Prolog2
-import com.example.cheng.Uses.Reg
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.*
 
