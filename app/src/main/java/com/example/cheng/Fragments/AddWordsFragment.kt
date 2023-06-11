@@ -1,7 +1,5 @@
 package com.example.cheng.Fragments
 
-
-
 import android.content.Context
 import android.content.SharedPreferences
 import android.os.Bundle
@@ -10,7 +8,6 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.cheng.*
-
 
 class AddWordsFragment : AppCompatActivity() {
     lateinit var Rususer: EditText

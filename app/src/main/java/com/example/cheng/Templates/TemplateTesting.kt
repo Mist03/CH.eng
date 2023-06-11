@@ -3,8 +3,6 @@ package com.example.cheng
 import android.content.Context
 import android.content.SharedPreferences
 import android.os.Bundle
-import android.os.Handler
-import android.os.Looper
 import android.os.SystemClock
 import android.widget.Button
 import android.widget.Chronometer

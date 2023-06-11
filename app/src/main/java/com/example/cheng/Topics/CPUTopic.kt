@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
-import com.bumptech.glide.Glide
 import com.example.cheng.*
 import com.example.cheng.R
 import com.example.cheng.Words.CPUWordActivity
@@ -45,7 +44,6 @@ class CPUTopic : AppCompatActivity() {
             }
             override fun onCancelled(error: DatabaseError) {}
         })
-//        Glide.with(this).load(UrlImage1).into(Photo)
 
         val btn = findViewById<Button>(R.id.buttonBack)
         btn.setOnClickListener {
